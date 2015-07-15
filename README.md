@@ -1,2 +1,2 @@
-# node_lab
-a repository to test node.js
+# node_lab hyejiwon
+a repository to test node.js in Hyejiwon book.
